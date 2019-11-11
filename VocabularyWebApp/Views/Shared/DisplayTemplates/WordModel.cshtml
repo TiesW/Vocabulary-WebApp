@@ -1,0 +1,10 @@
+﻿@model VocabularyWebApp.Models.WordModel
+
+	<tr>
+		<td>@Model.Word</td>
+		<td>@Model.Definition</td>
+		<td>@Model.Etymology</td>
+		<td>@Html.ActionLink("Update", "Update", "Home", new { WordId = Model.WordId }, null)</td>
+		<td>@Html.ActionLink("Delete", "Delete", "Home", new { WordId = Model.WordId }, null)</td>
+	</tr>
+

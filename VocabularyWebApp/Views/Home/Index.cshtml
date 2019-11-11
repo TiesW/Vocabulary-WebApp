@@ -1,0 +1,20 @@
+﻿@model List<VocabularyWebApp.Models.WordModel>
+@{
+	ViewData["Title"] = "Vocabulary";
+}
+
+<h1>Vocabulary</h1>
+<h6>Table of words with their definition and etymology.</h6>
+
+<table style="width:100%;">
+	<tr>
+		<th>Word</th>
+		<th>Definition</th>
+		<th>Etymology</th>
+		<th>Update</th>
+		<th>Delete</th>
+	</tr>
+	@Html.DisplayForModel()
+</table>
+
+@Html.ActionLink("Add", "Add", "Home")

@@ -1,0 +1,13 @@
+﻿@model VocabularyWebApp.Models.WordModel
+@{
+	ViewData["Title"] = "Add";
+}
+
+<h1>Add</h1>
+<h6>Add a new vocabulary word.</h6>
+
+<form asp-controller="Home" asp-action="Add" method="post">   @*Tag-helpers, i.p.v. "@using (Html.BeginForm("Add", "Home"))" zoals in ASP.NET Framework.*@
+	@Html.EditorForModel()
+	<button type="submit">Add</button>
+</form>
+

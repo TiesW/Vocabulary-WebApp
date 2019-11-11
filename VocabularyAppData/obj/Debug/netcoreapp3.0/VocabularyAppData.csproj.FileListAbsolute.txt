@@ -1,0 +1,8 @@
+C:\Users\Ties\Documents\code\C#\VocabularyWebApp (ASP.NET Core)\VocabularyAppData\bin\Debug\netcoreapp3.0\VocabularyAppData.deps.json
+C:\Users\Ties\Documents\code\C#\VocabularyWebApp (ASP.NET Core)\VocabularyAppData\bin\Debug\netcoreapp3.0\VocabularyAppData.dll
+C:\Users\Ties\Documents\code\C#\VocabularyWebApp (ASP.NET Core)\VocabularyAppData\obj\Debug\netcoreapp3.0\VocabularyAppData.csprojAssemblyReference.cache
+C:\Users\Ties\Documents\code\C#\VocabularyWebApp (ASP.NET Core)\VocabularyAppData\obj\Debug\netcoreapp3.0\VocabularyAppData.AssemblyInfoInputs.cache
+C:\Users\Ties\Documents\code\C#\VocabularyWebApp (ASP.NET Core)\VocabularyAppData\obj\Debug\netcoreapp3.0\VocabularyAppData.AssemblyInfo.cs
+C:\Users\Ties\Documents\code\C#\VocabularyWebApp (ASP.NET Core)\VocabularyAppData\bin\Debug\netcoreapp3.0\VocabularyAppData.pdb
+C:\Users\Ties\Documents\code\C#\VocabularyWebApp (ASP.NET Core)\VocabularyAppData\obj\Debug\netcoreapp3.0\VocabularyAppData.dll
+C:\Users\Ties\Documents\code\C#\VocabularyWebApp (ASP.NET Core)\VocabularyAppData\obj\Debug\netcoreapp3.0\VocabularyAppData.pdb

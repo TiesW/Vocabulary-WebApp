@@ -1,0 +1,14 @@
+﻿@model VocabularyWebApp.Models.WordModel
+
+@{
+	ViewData["Title"] = "Update";
+}
+
+<h1>Update</h1>
+<h6>Edit a word entry.</h6>
+
+<form asp-controller="Home" asp-action="Update" method="post">
+	@Html.HiddenFor(m => m.WordId)
+	@Html.EditorForModel()
+	<button type="submit">Update</button>
+</form>

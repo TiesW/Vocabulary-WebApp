@@ -1,0 +1,14 @@
+﻿@model VocabularyWebApp.Models.WordModel
+
+@Html.LabelFor(m => m.Word)
+@Html.TextBoxFor(m => m.Word)
+@Html.ValidationMessageFor(m => m.Word)
+
+@Html.LabelFor(m => m.Definition)
+@Html.TextBoxFor(m => m.Definition)
+@Html.ValidationMessageFor(m => m.Definition)
+
+@Html.LabelFor(m => m.Etymology)
+@Html.TextBoxFor(m => m.Etymology)
+@Html.ValidationMessageFor(m => m.Etymology)
+
